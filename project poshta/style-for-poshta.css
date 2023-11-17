@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+.logo{
+  display: flex;
+  width: 100%;
+  height: 90px;
+  background: #FFF;
+  padding: 25px 1119px 15px 135px;
+  align-items: center;
+}
+.navigation{
+  width: 100%;
+  height: 60px;
+  background: #FFF;
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 0px 671.151px 0px 135px;
+  gap: 29.626px;
+}
+nav{
+  color: #99A2AA;
+  font-family: Rubik;
+}
+.bigyellow{
+  width: 100%;
+  height: 450px;
+  background: #FEC524;
+}
+.smallyellow{
+  width: 570px;
+  height: 230px;
+  position: absolute;
+  margin-left: 135px;
+}
+h2{
+  color: #FFF;
+  font-family: Rubik;
+  font-size: 44px;
+  font-style: normal;
+}
+.transparent{
+  width: 80%;
+  height: 212px;
+  margin-left: 120px;
+  position: absolute;
+  margin-top: 300px;
+}
+.numberorder{
+  width: 570px;
+  height: 72px;
+  margin-left: 15px;
+  margin-top: 30px;
+  background: #FFF;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0px 3px 35px 0px rgba(95, 98, 102, 0.17);
+}
+input{
+  width: 232.881px;
+  height: 19px;
+  border: none;
+  margin-left: 30px;
+}
+
+#calc, #ordr, #fnd, #pre{
+  border-radius: 10px;
+  background: #FFF;
+  box-shadow: 0px 3px 35px 0px rgba(95, 98, 102, 0.17);
+  width: 270px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#frst, #scnd, #thrd, #frth{
+  color: #99A2AA;
+  text-align: center;
+  font-family: Rubik;
+}
+.service-block{
+  width: 100vw;
+  height: 800px;
+  display: flex;
+  background: #F8F8F8;
+}
+#poshta-services{
+  width: 400px;
+  height: 630px;
+  margin-left: 135px;
+  margin-top: 100px;
+}
+.threeblock1{
+  width: 370px;
+  height: 180px;
+  display: block;
+  margin-top: 120px;
+}
+#uaorder, #onlineorder, #worldorder, #docsorder, #medorder, #inuaorder{
+  padding-bottom: 90px;
+}
+.bigblue{
+  width: 100vw;
+  height: 660px;
+  background: #042C4B;
+}
+.business{
+  width: 700px;
+  height: 390px;
+  margin-left: 135px;
+  padding-top: 120px;
+}
+#flw{
+  border-radius: 10px;
+  background: #FDC13D;
+  width: 305px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-left: 150px;
+}
+.bigwhite{
+  width: 100vw;
+  height: 880px;
+  background: #F8F8F8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  width: 1200px;
+  height: 780px;
+}
+.tabpanel{
+  width: 70vw;
+  height: 220px;
+  border-radius: 10px;
+  background: #FDC13D;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.finance{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.linethreeblock{
+  display: flex;
+  width: 270px;
+  height: 270px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+}
+#moneytransfers, #transfers, #insurance{
+  margin-right: 150px;
+}
+.blue{
+  width: 100vw;
+  height: 635px;
+  background: #0E2F4B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.smallblue{
+  width: 80vw;
+  height: 365px;
+}
+.city{
+  width: 505px;
+  height: 78px;
+  margin-left: 15px;
+  margin-top: 30px;
+  background: #FFF;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0px 3px 35px 0px rgba(95, 98, 102, 0.17);
+}
+#serc{
+  border-radius: 10px;
+  background: #FDC13D;
+  width: 248px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-left: 530px;
+}
+
+
